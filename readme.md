@@ -1,6 +1,6 @@
 # Tessel Sandbox
 
-Code for the Tessel 2 from the Tessel Workshop: **Building an Extensible IoT Dashboard with Glitch, Azure IoT Hub, and Tessel** on May 16, 2018 @ Microsoft Reactor NYC with **[Suze Hinton](https://twitter.com/noopkat)** and **[Nick Heher](https://twitter.com/hipsterbrown)**.
+Code for the Tessel 2 from the Tessel Workshop: **Building an Extensible IoT Dashboard with Glitch, Azure IoT Hub, and Tessel** on May 16, 2018 @ Microsoft Reactor NYC with **[Suz Hinton](https://twitter.com/noopkat)** and **[Nick Hehr](https://twitter.com/hipsterbrown)**.
 
 The Tessel 2 is an open-source hardware and software platform that can be programmed with JavaScript out of the box! Johnny-Five is a JavaScript robotics and IoT library, like jQuery for hardware. Bringing those 2 pieces together is one of the greatest ways to start building your very first electronics project!
 
